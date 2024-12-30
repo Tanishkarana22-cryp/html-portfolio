@@ -1,1 +1,3 @@
 # html-portfolio
+#jpg
+#png
